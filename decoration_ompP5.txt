@@ -1,0 +1,12 @@
+colour grey #0:28-37,63-73,77-86,110-120,125-136,163-174,178-187,208-217
+colour green #0:38-62,87-109,137-162,188-207
+colour red #0:1-27,74-76,121-124,175-177,218-353
+shape sphere radius 1.5 center #0:49 color orange mesh true
+shape sphere radius 1.5 center #0:50 color orange mesh true
+shape sphere radius 1.5 center #0:51 color orange mesh true
+shape sphere radius 1.5 center #0:53 color orange mesh true
+shape sphere radius 1.5 center #0:95 color orange mesh true
+shape sphere radius 1.5 center #0:100 color orange mesh true
+shape sphere radius 1.5 center #0:102 color orange mesh true
+shape sphere radius 1.5 center #0:157 color orange mesh true
+shape sphere radius 1.5 center #0:159 color orange mesh true
